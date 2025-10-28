@@ -1,4 +1,4 @@
-# Workforce Performance & Sentiment Analysis
+# 🤖📈 Employee Performance & Sentiment Prediction
 
 This project simulates and analyzes a synthetic workforce to provide insights into employee performance, productivity, and engagement. It demonstrates an **end-to-end workflow** from synthetic data generation to sentiment analysis and interactive Power BI dashboards.
 
