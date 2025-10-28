@@ -61,7 +61,7 @@ The main goal of this project is to generate realistic synthetic employee, perfo
 
 ### **Findings Document**
 
-- `Workforce_Performance_Analysis.docx`  
+- `Workforce_Performance_Analysis.pdf`  
   - Summarizes all insights derived from the Power BI dashboards.  
   - Highlights department and role-level efficiency, sentiment trends, and actionable recommendations.  
 
