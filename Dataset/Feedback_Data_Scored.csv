@@ -1,0 +1,1801 @@
+EmployeeID,Date,FeedbackText,Sentiment_Score,Sentiment_Score_Normalized,Sentiment_Label
+E001,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E001,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E001,2025-03-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E001,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E001,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E001,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E001,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E001,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E001,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E002,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E002,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E002,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E002,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E002,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E002,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E002,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E002,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E002,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E003,2025-01-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E003,2025-02-28,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E003,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E003,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E003,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E003,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E003,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E003,2025-08-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E003,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E004,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E004,2025-02-28,There is a lack of communication from management.,0.0,0.5,Neutral
+E004,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E004,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E004,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E004,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E004,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E004,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E004,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E005,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E005,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E005,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E005,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E005,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E005,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E005,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E005,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E005,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E006,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E006,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E006,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E006,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E006,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E006,2025-06-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E006,2025-07-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E006,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E006,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E007,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E007,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E007,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E007,2025-04-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E007,2025-05-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E007,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E007,2025-07-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E007,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E007,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E008,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E008,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E008,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E008,2025-04-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E008,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E008,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E008,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E008,2025-08-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E008,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E009,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E009,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E009,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E009,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E009,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E009,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E009,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E009,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E009,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E010,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E010,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E010,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E010,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E010,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E010,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E010,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E010,2025-08-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E010,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E011,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E011,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E011,2025-03-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E011,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E011,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E011,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E011,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E011,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E011,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E012,2025-01-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E012,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E012,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E012,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E012,2025-05-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E012,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E012,2025-07-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E012,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E012,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E013,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E013,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E013,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E013,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E013,2025-05-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E013,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E013,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E013,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E013,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E014,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E014,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E014,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E014,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E014,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E014,2025-06-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E014,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E014,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E014,2025-09-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E015,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E015,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E015,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E015,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E015,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E015,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E015,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E015,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E015,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E016,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E016,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E016,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E016,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E016,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E016,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E016,2025-07-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E016,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E016,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E017,2025-01-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E017,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E017,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E017,2025-04-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E017,2025-05-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E017,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E017,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E017,2025-08-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E017,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E018,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E018,2025-02-28,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E018,2025-03-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E018,2025-04-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E018,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E018,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E018,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E018,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E018,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E019,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E019,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E019,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E019,2025-04-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E019,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E019,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E019,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E019,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E019,2025-09-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E020,2025-01-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E020,2025-02-28,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E020,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E020,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E020,2025-05-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E020,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E020,2025-07-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E020,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E020,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E021,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E021,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E021,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E021,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E021,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E021,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E021,2025-07-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E021,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E021,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E022,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E022,2025-02-28,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E022,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E022,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E022,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E022,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E022,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E022,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E022,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E023,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E023,2025-02-28,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E023,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E023,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E023,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E023,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E023,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E023,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E023,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E024,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E024,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E024,2025-03-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E024,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E024,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E024,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E024,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E024,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E024,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E025,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E025,2025-02-28,There is a lack of communication from management.,0.0,0.5,Neutral
+E025,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E025,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E025,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E025,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E025,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E025,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E025,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E026,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E026,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E026,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E026,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E026,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E026,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E026,2025-07-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E026,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E026,2025-09-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E027,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E027,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E027,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E027,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E027,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E027,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E027,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E027,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E027,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E028,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E028,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E028,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E028,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E028,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E028,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E028,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E028,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E028,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E029,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E029,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E029,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E029,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E029,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E029,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E029,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E029,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E029,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E030,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E030,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E030,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E030,2025-04-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E030,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E030,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E030,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E030,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E030,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E031,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E031,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E031,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E031,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E031,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E031,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E031,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E031,2025-08-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E031,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E032,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E032,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E032,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E032,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E032,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E032,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E032,2025-07-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E032,2025-08-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E032,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E033,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E033,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E033,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E033,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E033,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E033,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E033,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E033,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E033,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E034,2025-01-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E034,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E034,2025-03-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E034,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E034,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E034,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E034,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E034,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E034,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E035,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E035,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E035,2025-03-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E035,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E035,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E035,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E035,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E035,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E035,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E036,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E036,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E036,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E036,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E036,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E036,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E036,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E036,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E036,2025-09-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E037,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E037,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E037,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E037,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E037,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E037,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E037,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E037,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E037,2025-09-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E038,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E038,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E038,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E038,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E038,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E038,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E038,2025-07-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E038,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E038,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E039,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E039,2025-02-28,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E039,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E039,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E039,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E039,2025-06-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E039,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E039,2025-08-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E039,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E040,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E040,2025-02-28,The expectations are unclear for my role.,0.0,0.5,Neutral
+E040,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E040,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E040,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E040,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E040,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E040,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E040,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E041,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E041,2025-02-28,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E041,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E041,2025-04-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E041,2025-05-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E041,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E041,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E041,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E041,2025-09-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E042,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E042,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E042,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E042,2025-04-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E042,2025-05-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E042,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E042,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E042,2025-08-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E042,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E043,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E043,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E043,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E043,2025-04-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E043,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E043,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E043,2025-07-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E043,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E043,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E044,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E044,2025-02-28,There is a lack of communication from management.,0.0,0.5,Neutral
+E044,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E044,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E044,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E044,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E044,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E044,2025-08-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E044,2025-09-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E045,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E045,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E045,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E045,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E045,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E045,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E045,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E045,2025-08-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E045,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E046,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E046,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E046,2025-03-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E046,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E046,2025-05-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E046,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E046,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E046,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E046,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E047,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E047,2025-02-28,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E047,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E047,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E047,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E047,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E047,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E047,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E047,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E048,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E048,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E048,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E048,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E048,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E048,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E048,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E048,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E048,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E049,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E049,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E049,2025-03-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E049,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E049,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E049,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E049,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E049,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E049,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E050,2025-01-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E050,2025-02-28,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E050,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E050,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E050,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E050,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E050,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E050,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E050,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E051,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E051,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E051,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E051,2025-04-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E051,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E051,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E051,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E051,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E051,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E052,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E052,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E052,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E052,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E052,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E052,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E052,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E052,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E052,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E053,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E053,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E053,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E053,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E053,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E053,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E053,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E053,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E053,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E054,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E054,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E054,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E054,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E054,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E054,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E054,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E054,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E054,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E055,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E055,2025-02-28,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E055,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E055,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E055,2025-05-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E055,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E055,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E055,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E055,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E056,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E056,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E056,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E056,2025-04-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E056,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E056,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E056,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E056,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E056,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E057,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E057,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E057,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E057,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E057,2025-05-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E057,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E057,2025-07-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E057,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E057,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E058,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E058,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E058,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E058,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E058,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E058,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E058,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E058,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E058,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E059,2025-01-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E059,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E059,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E059,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E059,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E059,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E059,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E059,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E059,2025-09-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E060,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E060,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E060,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E060,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E060,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E060,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E060,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E060,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E060,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E061,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E061,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E061,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E061,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E061,2025-05-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E061,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E061,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E061,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E061,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E062,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E062,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E062,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E062,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E062,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E062,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E062,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E062,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E062,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E063,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E063,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E063,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E063,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E063,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E063,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E063,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E063,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E063,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E064,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E064,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E064,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E064,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E064,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E064,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E064,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E064,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E064,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E065,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E065,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E065,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E065,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E065,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E065,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E065,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E065,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E065,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E066,2025-01-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E066,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E066,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E066,2025-04-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E066,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E066,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E066,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E066,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E066,2025-09-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E067,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E067,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E067,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E067,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E067,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E067,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E067,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E067,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E067,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E068,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E068,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E068,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E068,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E068,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E068,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E068,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E068,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E068,2025-09-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E069,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E069,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E069,2025-03-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E069,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E069,2025-05-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E069,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E069,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E069,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E069,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E070,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E070,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E070,2025-03-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E070,2025-04-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E070,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E070,2025-06-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E070,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E070,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E070,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E071,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E071,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E071,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E071,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E071,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E071,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E071,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E071,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E071,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E072,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E072,2025-02-28,There is a lack of communication from management.,0.0,0.5,Neutral
+E072,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E072,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E072,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E072,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E072,2025-07-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E072,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E072,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E073,2025-01-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E073,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E073,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E073,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E073,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E073,2025-06-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E073,2025-07-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E073,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E073,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E074,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E074,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E074,2025-03-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E074,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E074,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E074,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E074,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E074,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E074,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E075,2025-01-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E075,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E075,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E075,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E075,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E075,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E075,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E075,2025-08-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E075,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E076,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E076,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E076,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E076,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E076,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E076,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E076,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E076,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E076,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E077,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E077,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E077,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E077,2025-04-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E077,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E077,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E077,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E077,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E077,2025-09-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E078,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E078,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E078,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E078,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E078,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E078,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E078,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E078,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E078,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E079,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E079,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E079,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E079,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E079,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E079,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E079,2025-07-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E079,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E079,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E080,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E080,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E080,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E080,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E080,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E080,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E080,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E080,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E080,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E081,2025-01-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E081,2025-02-28,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E081,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E081,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E081,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E081,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E081,2025-07-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E081,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E081,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E082,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E082,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E082,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E082,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E082,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E082,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E082,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E082,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E082,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E083,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E083,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E083,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E083,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E083,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E083,2025-06-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E083,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E083,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E083,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E084,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E084,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E084,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E084,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E084,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E084,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E084,2025-07-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E084,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E084,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E085,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E085,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E085,2025-03-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E085,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E085,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E085,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E085,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E085,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E085,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E086,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E086,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E086,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E086,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E086,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E086,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E086,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E086,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E086,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E087,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E087,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E087,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E087,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E087,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E087,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E087,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E087,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E087,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E088,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E088,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E088,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E088,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E088,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E088,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E088,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E088,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E088,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E089,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E089,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E089,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E089,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E089,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E089,2025-06-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E089,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E089,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E089,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E090,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E090,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E090,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E090,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E090,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E090,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E090,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E090,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E090,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E091,2025-01-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E091,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E091,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E091,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E091,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E091,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E091,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E091,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E091,2025-09-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E092,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E092,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E092,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E092,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E092,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E092,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E092,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E092,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E092,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E093,2025-01-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E093,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E093,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E093,2025-04-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E093,2025-05-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E093,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E093,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E093,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E093,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E094,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E094,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E094,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E094,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E094,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E094,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E094,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E094,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E094,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E095,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E095,2025-02-28,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E095,2025-03-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E095,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E095,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E095,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E095,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E095,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E095,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E096,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E096,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E096,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E096,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E096,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E096,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E096,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E096,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E096,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E097,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E097,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E097,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E097,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E097,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E097,2025-06-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E097,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E097,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E097,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E098,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E098,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E098,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E098,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E098,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E098,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E098,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E098,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E098,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E099,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E099,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E099,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E099,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E099,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E099,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E099,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E099,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E099,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E100,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E100,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E100,2025-03-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E100,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E100,2025-05-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E100,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E100,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E100,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E100,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E101,2025-01-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E101,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E101,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E101,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E101,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E101,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E101,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E101,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E101,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E102,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E102,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E102,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E102,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E102,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E102,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E102,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E102,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E102,2025-09-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E103,2025-01-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E103,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E103,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E103,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E103,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E103,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E103,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E103,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E103,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E104,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E104,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E104,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E104,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E104,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E104,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E104,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E104,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E104,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E105,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E105,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E105,2025-03-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E105,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E105,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E105,2025-06-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E105,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E105,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E105,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E106,2025-01-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E106,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E106,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E106,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E106,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E106,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E106,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E106,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E106,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E107,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E107,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E107,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E107,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E107,2025-05-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E107,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E107,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E107,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E107,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E108,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E108,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E108,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E108,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E108,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E108,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E108,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E108,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E108,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E109,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E109,2025-02-28,The expectations are unclear for my role.,0.0,0.5,Neutral
+E109,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E109,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E109,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E109,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E109,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E109,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E109,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E110,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E110,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E110,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E110,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E110,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E110,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E110,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E110,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E110,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E111,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E111,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E111,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E111,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E111,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E111,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E111,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E111,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E111,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E112,2025-01-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E112,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E112,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E112,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E112,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E112,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E112,2025-07-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E112,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E112,2025-09-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E113,2025-01-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E113,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E113,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E113,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E113,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E113,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E113,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E113,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E113,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E114,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E114,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E114,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E114,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E114,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E114,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E114,2025-07-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E114,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E114,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E115,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E115,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E115,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E115,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E115,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E115,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E115,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E115,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E115,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E116,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E116,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E116,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E116,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E116,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E116,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E116,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E116,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E116,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E117,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E117,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E117,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E117,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E117,2025-05-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E117,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E117,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E117,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E117,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E118,2025-01-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E118,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E118,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E118,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E118,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E118,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E118,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E118,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E118,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E119,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E119,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E119,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E119,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E119,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E119,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E119,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E119,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E119,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E120,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E120,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E120,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E120,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E120,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E120,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E120,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E120,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E120,2025-09-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E121,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E121,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E121,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E121,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E121,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E121,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E121,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E121,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E121,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E122,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E122,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E122,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E122,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E122,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E122,2025-06-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E122,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E122,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E122,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E123,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E123,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E123,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E123,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E123,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E123,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E123,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E123,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E123,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E124,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E124,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E124,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E124,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E124,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E124,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E124,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E124,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E124,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E125,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E125,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E125,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E125,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E125,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E125,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E125,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E125,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E125,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E126,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E126,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E126,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E126,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E126,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E126,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E126,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E126,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E126,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E127,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E127,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E127,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E127,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E127,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E127,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E127,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E127,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E127,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E128,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E128,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E128,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E128,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E128,2025-05-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E128,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E128,2025-07-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E128,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E128,2025-09-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E129,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E129,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E129,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E129,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E129,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E129,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E129,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E129,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E129,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E130,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E130,2025-02-28,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E130,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E130,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E130,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E130,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E130,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E130,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E130,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E131,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E131,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E131,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E131,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E131,2025-05-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E131,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E131,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E131,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E131,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E132,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E132,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E132,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E132,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E132,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E132,2025-06-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E132,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E132,2025-08-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E132,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E133,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E133,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E133,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E133,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E133,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E133,2025-06-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E133,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E133,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E133,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E134,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E134,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E134,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E134,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E134,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E134,2025-06-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E134,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E134,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E134,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E135,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E135,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E135,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E135,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E135,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E135,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E135,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E135,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E135,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E136,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E136,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E136,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E136,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E136,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E136,2025-06-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E136,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E136,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E136,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E137,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E137,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E137,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E137,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E137,2025-05-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E137,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E137,2025-07-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E137,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E137,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E138,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E138,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E138,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E138,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E138,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E138,2025-06-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E138,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E138,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E138,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E139,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E139,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E139,2025-03-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E139,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E139,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E139,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E139,2025-07-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E139,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E139,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E140,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E140,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E140,2025-03-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E140,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E140,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E140,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E140,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E140,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E140,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E141,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E141,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E141,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E141,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E141,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E141,2025-06-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E141,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E141,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E141,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E142,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E142,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E142,2025-03-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E142,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E142,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E142,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E142,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E142,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E142,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E143,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E143,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E143,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E143,2025-04-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E143,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E143,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E143,2025-07-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E143,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E143,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E144,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E144,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E144,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E144,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E144,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E144,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E144,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E144,2025-08-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E144,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E145,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E145,2025-02-28,The expectations are unclear for my role.,0.0,0.5,Neutral
+E145,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E145,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E145,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E145,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E145,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E145,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E145,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E146,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E146,2025-02-28,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E146,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E146,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E146,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E146,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E146,2025-07-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E146,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E146,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E147,2025-01-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E147,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E147,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E147,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E147,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E147,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E147,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E147,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E147,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E148,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E148,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E148,2025-03-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E148,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E148,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E148,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E148,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E148,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E148,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E149,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E149,2025-02-28,The expectations are unclear for my role.,0.0,0.5,Neutral
+E149,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E149,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E149,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E149,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E149,2025-07-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E149,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E149,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E150,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E150,2025-02-28,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E150,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E150,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E150,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E150,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E150,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E150,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E150,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E151,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E151,2025-02-28,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E151,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E151,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E151,2025-05-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E151,2025-06-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E151,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E151,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E151,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E152,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E152,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E152,2025-03-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E152,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E152,2025-05-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E152,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E152,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E152,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E152,2025-09-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E153,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E153,2025-02-28,There is a lack of communication from management.,0.0,0.5,Neutral
+E153,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E153,2025-04-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E153,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E153,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E153,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E153,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E153,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E154,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E154,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E154,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E154,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E154,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E154,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E154,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E154,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E154,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E155,2025-01-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E155,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E155,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E155,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E155,2025-05-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E155,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E155,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E155,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E155,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E156,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E156,2025-02-28,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E156,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E156,2025-04-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E156,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E156,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E156,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E156,2025-08-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E156,2025-09-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E157,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E157,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E157,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E157,2025-04-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E157,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E157,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E157,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E157,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E157,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E158,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E158,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E158,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E158,2025-04-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E158,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E158,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E158,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E158,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E158,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E159,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E159,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E159,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E159,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E159,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E159,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E159,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E159,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E159,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E160,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E160,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E160,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E160,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E160,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E160,2025-06-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E160,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E160,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E160,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E161,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E161,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E161,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E161,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E161,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E161,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E161,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E161,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E161,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E162,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E162,2025-02-28,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E162,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E162,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E162,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E162,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E162,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E162,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E162,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E163,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E163,2025-02-28,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E163,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E163,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E163,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E163,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E163,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E163,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E163,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E164,2025-01-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E164,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E164,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E164,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E164,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E164,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E164,2025-07-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E164,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E164,2025-09-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E165,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E165,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E165,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E165,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E165,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E165,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E165,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E165,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E165,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E166,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E166,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E166,2025-03-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E166,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E166,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E166,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E166,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E166,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E166,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E167,2025-01-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E167,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E167,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E167,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E167,2025-05-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E167,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E167,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E167,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E167,2025-09-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E168,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E168,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E168,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E168,2025-04-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E168,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E168,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E168,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E168,2025-08-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E168,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E169,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E169,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E169,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E169,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E169,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E169,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E169,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E169,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E169,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E170,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E170,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E170,2025-03-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E170,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E170,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E170,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E170,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E170,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E170,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E171,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E171,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E171,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E171,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E171,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E171,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E171,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E171,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E171,2025-09-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E172,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E172,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E172,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E172,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E172,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E172,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E172,2025-07-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E172,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E172,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E173,2025-01-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E173,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E173,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E173,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E173,2025-05-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E173,2025-06-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E173,2025-07-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E173,2025-08-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E173,2025-09-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E174,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E174,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E174,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E174,2025-04-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E174,2025-05-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E174,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E174,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E174,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E174,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E175,2025-01-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E175,2025-02-28,I enjoy coming to work every day.,0.4,0.7,Positive
+E175,2025-03-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E175,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E175,2025-05-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E175,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E175,2025-07-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E175,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E175,2025-09-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E176,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E176,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E176,2025-03-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E176,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E176,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E176,2025-06-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E176,2025-07-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E176,2025-08-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E176,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E177,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E177,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E177,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E177,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E177,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E177,2025-06-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E177,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E177,2025-08-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E177,2025-09-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E178,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E178,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E178,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E178,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E178,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E178,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E178,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E178,2025-08-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E178,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E179,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E179,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E179,2025-03-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E179,2025-04-30,The expectations are unclear for my role.,0.0,0.5,Neutral
+E179,2025-05-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E179,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E179,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E179,2025-08-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E179,2025-09-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E180,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E180,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E180,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E180,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E180,2025-05-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E180,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E180,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E180,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E180,2025-09-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E181,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E181,2025-02-28,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E181,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E181,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E181,2025-05-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E181,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E181,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E181,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E181,2025-09-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E182,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E182,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E182,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E182,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E182,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E182,2025-06-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E182,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E182,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E182,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E183,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E183,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E183,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E183,2025-04-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E183,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E183,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E183,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E183,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E183,2025-09-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E184,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E184,2025-02-28,The expectations are unclear for my role.,0.0,0.5,Neutral
+E184,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E184,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E184,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E184,2025-06-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E184,2025-07-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E184,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E184,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E185,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E185,2025-02-28,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E185,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E185,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E185,2025-05-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E185,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E185,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E185,2025-08-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E185,2025-09-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E186,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E186,2025-02-28,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E186,2025-03-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E186,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E186,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E186,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E186,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E186,2025-08-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E186,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E187,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E187,2025-02-28,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E187,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E187,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E187,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E187,2025-06-30,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E187,2025-07-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E187,2025-08-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E187,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E188,2025-01-31,Great collaboration across departments.,0.8,0.9,Positive
+E188,2025-02-28,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E188,2025-03-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E188,2025-04-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E188,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E188,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E188,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E188,2025-08-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E188,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E189,2025-01-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E189,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E189,2025-03-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E189,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E189,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E189,2025-06-30,Great collaboration across departments.,0.8,0.9,Positive
+E189,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E189,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E189,2025-09-30,Great collaboration across departments.,0.8,0.9,Positive
+E190,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E190,2025-02-28,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E190,2025-03-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E190,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E190,2025-05-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E190,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E190,2025-07-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E190,2025-08-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E190,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E191,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E191,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E191,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E191,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E191,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E191,2025-06-30,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E191,2025-07-31,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E191,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E191,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E192,2025-01-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E192,2025-02-28,Great collaboration across departments.,0.8,0.9,Positive
+E192,2025-03-31,Great collaboration across departments.,0.8,0.9,Positive
+E192,2025-04-30,Limited opportunities for career growth.,-0.07142857142857142,0.464,Neutral
+E192,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E192,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E192,2025-07-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E192,2025-08-31,Great collaboration across departments.,0.8,0.9,Positive
+E192,2025-09-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E193,2025-01-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E193,2025-02-28,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E193,2025-03-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E193,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E193,2025-05-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E193,2025-06-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E193,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E193,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E193,2025-09-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E194,2025-01-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E194,2025-02-28,The expectations are unclear for my role.,0.0,0.5,Neutral
+E194,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E194,2025-04-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E194,2025-05-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E194,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E194,2025-07-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E194,2025-08-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E194,2025-09-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E195,2025-01-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E195,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E195,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E195,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E195,2025-05-31,Great collaboration across departments.,0.8,0.9,Positive
+E195,2025-06-30,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E195,2025-07-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E195,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E195,2025-09-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E196,2025-01-31,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E196,2025-02-28,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E196,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E196,2025-04-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E196,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E196,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E196,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E196,2025-08-31,Work processes are okay but could be improved.,0.5,0.75,Positive
+E196,2025-09-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E197,2025-01-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E197,2025-02-28,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E197,2025-03-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E197,2025-04-30,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E197,2025-05-31,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E197,2025-06-30,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E197,2025-07-31,Great collaboration across departments.,0.8,0.9,Positive
+E197,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E197,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E198,2025-01-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E198,2025-02-28,Work processes are okay but could be improved.,0.5,0.75,Positive
+E198,2025-03-31,Deadlines are unrealistic and stressful.,-0.5,0.25,Negative
+E198,2025-04-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E198,2025-05-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E198,2025-06-30,I enjoy coming to work every day.,0.4,0.7,Positive
+E198,2025-07-31,I feel motivated by the team and our goals.,0.0,0.5,Neutral
+E198,2025-08-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E198,2025-09-30,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E199,2025-01-31,The manager gives constructive feedback regularly.,0.0,0.5,Neutral
+E199,2025-02-28,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E199,2025-03-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E199,2025-04-30,Work processes are okay but could be improved.,0.5,0.75,Positive
+E199,2025-05-31,"The work environment is fine, nothing special.",0.3869047619047619,0.693,Positive
+E199,2025-06-30,Workload feels overwhelming lately.,0.1,0.55,Neutral
+E199,2025-07-31,There is a lack of communication from management.,0.0,0.5,Neutral
+E199,2025-08-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E199,2025-09-30,There is a lack of communication from management.,0.0,0.5,Neutral
+E200,2025-01-31,I enjoy coming to work every day.,0.4,0.7,Positive
+E200,2025-02-28,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E200,2025-03-31,My tasks are repetitive but manageable.,-0.25,0.375,Negative
+E200,2025-04-30,Great collaboration across departments.,0.8,0.9,Positive
+E200,2025-05-31,The expectations are unclear for my role.,0.0,0.5,Neutral
+E200,2025-06-30,I feel neither satisfied nor dissatisfied.,0.5,0.75,Positive
+E200,2025-07-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E200,2025-08-31,The workload is manageable and leadership is supportive.,0.5,0.75,Positive
+E200,2025-09-30,Work processes are okay but could be improved.,0.5,0.75,Positive

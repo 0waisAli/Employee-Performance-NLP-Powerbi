@@ -1,0 +1,201 @@
+EmployeeID,Name,Department,Role,Location,Tenure_Years
+E001,Steven Nguyen,Operations,Operations Manager,New York,9.0
+E002,William Adams,Finance,Accountant,London,9.0
+E003,Tammie Jensen,Operations,Planner,Sydney,1.5
+E004,Kathleen Carter,Marketing,Marketing Analyst,New York,1.6
+E005,Leah Cohen,Finance,Auditor,Sydney,0.8
+E006,Grace Cline,Finance,Auditor,Sydney,5.3
+E007,Michael Stevens,Marketing,Brand Manager,Toronto,9.8
+E008,Keith Smith,HR,HR Manager,Berlin,4.4
+E009,Chelsea Herrera,Finance,Accountant,Toronto,1.7
+E010,Crystal Garner,Marketing,Marketing Analyst,Toronto,10.2
+E011,Christian Newman,Sales,Account Manager,New York,8.9
+E012,Jessica Alexander MD,Sales,Sales Executive,Berlin,1.4
+E013,Teresa Perkins,IT,System Engineer,Sydney,10.7
+E014,Mark Thompson,IT,System Engineer,London,8.6
+E015,Frank Pugh,HR,HR Analyst,London,9.4
+E016,Jason Vasquez,HR,HR Manager,New York,4.9
+E017,Megan Lloyd,Marketing,Brand Manager,Toronto,2.4
+E018,Stephanie Wong,IT,Developer,Toronto,8.6
+E019,Patricia Marsh,Operations,Planner,New York,7.5
+E020,Leroy Heath,Finance,Auditor,London,2.4
+E021,Ronald Taylor,Marketing,SEO Specialist,Sydney,3.0
+E022,Garrett Black,IT,Developer,London,10.0
+E023,Timothy Ellis,IT,Data Analyst,Toronto,1.3
+E024,Eduardo Sullivan,Sales,Sales Analyst,Toronto,2.9
+E025,Philip Davis,Marketing,SEO Specialist,Berlin,2.1
+E026,Paul Stanley,Finance,Accountant,Sydney,6.7
+E027,Kenneth Miller,Operations,Planner,Berlin,10.8
+E028,Leslie Hansen,Marketing,SEO Specialist,London,12.0
+E029,David Harris,Finance,Auditor,Berlin,1.5
+E030,Selena Lynch,HR,HR Manager,London,7.7
+E031,David Stevens,Operations,Logistics Coordinator,Sydney,1.2
+E032,Tony Wilson,Marketing,Brand Manager,Berlin,6.6
+E033,Christopher Brewer,Sales,Sales Executive,New York,8.3
+E034,Vanessa Robinson,Sales,Account Manager,Toronto,1.8
+E035,Allison Manning,Marketing,Marketing Analyst,Berlin,0.5
+E036,Elizabeth Gonzalez,Operations,Planner,Toronto,11.7
+E037,Carol Jacobs,Finance,Auditor,New York,10.5
+E038,Paul Cox,IT,System Engineer,Sydney,7.5
+E039,Douglas Kim,Finance,Financial Analyst,London,6.7
+E040,Ruth Evans,Sales,Sales Executive,Sydney,4.2
+E041,Courtney Gillespie,HR,HR Manager,Toronto,10.6
+E042,Cole Burns,IT,Developer,New York,3.3
+E043,John Holt,Sales,Sales Executive,New York,8.9
+E044,Sean Mitchell,HR,HR Analyst,London,2.0
+E045,Holly Gonzales,Marketing,Brand Manager,London,3.5
+E046,John Kramer,Sales,Account Manager,London,11.2
+E047,Nicholas Brown,Operations,Planner,London,8.7
+E048,Kimberly Gibson,Marketing,Brand Manager,Toronto,5.5
+E049,Michelle Lindsey,Sales,Account Manager,New York,3.4
+E050,Suzanne Mccarthy,HR,Recruiter,New York,7.3
+E051,Steven Le,Finance,Auditor,London,0.6
+E052,Andrea Taylor,Operations,Planner,New York,3.1
+E053,Ronnie Gomez,HR,Recruiter,New York,6.4
+E054,Karen Schwartz,IT,System Engineer,Berlin,3.0
+E055,Robert Rodriguez,Finance,Auditor,Sydney,7.1
+E056,Kelly Pierce,Finance,Financial Analyst,Berlin,2.7
+E057,Timothy Davis,HR,HR Analyst,Berlin,4.6
+E058,Jessica Vazquez,Marketing,SEO Specialist,New York,8.2
+E059,Robin Martinez,Operations,Operations Manager,New York,5.1
+E060,Gary Gonzalez,IT,Developer,London,2.7
+E061,Morgan Henry,Sales,Account Manager,London,5.4
+E062,Paula Gregory,IT,Data Analyst,London,10.6
+E063,Michael Knight,HR,Recruiter,Sydney,1.6
+E064,Carl Blair,Operations,Planner,New York,11.6
+E065,Daniel Thomas,Finance,Accountant,Berlin,6.1
+E066,Christopher Guzman,Finance,Financial Analyst,New York,2.4
+E067,Corey Vaughan,HR,Recruiter,Toronto,11.2
+E068,Calvin Lowe,Marketing,SEO Specialist,Berlin,8.5
+E069,Evelyn Thompson,Operations,Planner,Berlin,2.3
+E070,Ian Weaver,IT,Developer,New York,7.2
+E071,Paul Brady,Sales,Sales Executive,Toronto,1.2
+E072,Summer Mcbride,Sales,Account Manager,Sydney,11.1
+E073,Diamond Mcmillan,Sales,Sales Executive,New York,11.5
+E074,Nicholas Rodriguez,HR,HR Manager,New York,7.3
+E075,Jason Murray,Operations,Operations Manager,Berlin,1.9
+E076,Rhonda Wang,Sales,Sales Executive,Sydney,7.3
+E077,Meredith Bradley,Sales,Sales Executive,Berlin,8.1
+E078,Susan Perry,Sales,Sales Analyst,Toronto,11.2
+E079,Katherine David,Finance,Auditor,Toronto,3.2
+E080,Anthony George,Marketing,Marketing Analyst,Toronto,5.8
+E081,Jill Mccarthy,HR,HR Manager,Berlin,7.6
+E082,Anthony Richmond,Sales,Sales Executive,New York,6.7
+E083,Haley Griffin,Sales,Account Manager,London,11.2
+E084,Rhonda Roberts,HR,HR Manager,Toronto,3.8
+E085,Priscilla Callahan,Marketing,Brand Manager,Toronto,7.5
+E086,Raymond Hamilton,Operations,Planner,New York,8.2
+E087,Stephanie Gonzalez,Sales,Account Manager,New York,11.3
+E088,Jill Buchanan,Finance,Financial Analyst,New York,10.7
+E089,Angela Myers,Operations,Planner,London,3.6
+E090,Kayla Burton,Sales,Sales Executive,Toronto,2.8
+E091,Ashley Walton,Operations,Logistics Coordinator,Sydney,6.1
+E092,Cynthia Knox,HR,HR Manager,Berlin,10.0
+E093,Victor Acevedo,HR,HR Manager,Toronto,9.4
+E094,Danny Moreno,Operations,Logistics Coordinator,London,9.0
+E095,James Bell,Sales,Sales Analyst,Berlin,7.0
+E096,Cheryl Cummings,HR,HR Manager,London,6.8
+E097,Henry Martin,IT,System Engineer,Sydney,2.2
+E098,David Waters,Finance,Accountant,Toronto,4.7
+E099,Kelly Miller,HR,Recruiter,London,8.3
+E100,Patricia Stewart,Operations,Operations Manager,Toronto,9.5
+E101,Randy Alvarado,Marketing,Brand Manager,London,11.1
+E102,Ashley Cook,Finance,Accountant,London,10.6
+E103,Steven Rojas,HR,HR Manager,Toronto,9.5
+E104,Dr. Susan Cantu,Marketing,Brand Manager,London,3.6
+E105,Edward Taylor,Operations,Operations Manager,Berlin,10.5
+E106,Michael Anderson,Marketing,Marketing Analyst,London,9.9
+E107,Brittany Hoffman,Marketing,SEO Specialist,Toronto,9.9
+E108,Sandra Mendez,Finance,Accountant,New York,8.1
+E109,Ryan Riley,Marketing,SEO Specialist,Toronto,10.4
+E110,Edwin Bentley,IT,Data Analyst,Sydney,5.1
+E111,Sara Jimenez,Sales,Account Manager,New York,1.8
+E112,Jaclyn Bush,IT,Developer,Sydney,11.6
+E113,David Fox,IT,Developer,New York,7.4
+E114,Jennifer Rodriguez,IT,System Engineer,Toronto,5.5
+E115,Daniel James,Sales,Sales Executive,Berlin,10.8
+E116,Susan Hill,Finance,Financial Analyst,New York,8.7
+E117,Paul Carr,HR,HR Analyst,Sydney,8.4
+E118,Mary Oconnell,Operations,Planner,London,4.7
+E119,Kristie Myers,HR,HR Analyst,Toronto,7.7
+E120,Kimberly Olsen,Operations,Operations Manager,Toronto,6.3
+E121,Steven Henry,Operations,Logistics Coordinator,Toronto,5.1
+E122,Michael Wilson,IT,System Engineer,London,2.7
+E123,Mrs. Alyssa Ramirez,Operations,Logistics Coordinator,London,7.6
+E124,Joseph Griffith,IT,Data Analyst,Sydney,10.1
+E125,John Rosario,IT,Data Analyst,London,5.4
+E126,John Rogers,Sales,Sales Analyst,Toronto,5.8
+E127,Deanna Coleman,Marketing,Brand Manager,London,6.4
+E128,Virginia Jenkins,Operations,Operations Manager,New York,3.8
+E129,Jeffrey Smith,Operations,Planner,Sydney,4.4
+E130,Rhonda Kerr,Finance,Auditor,Toronto,3.1
+E131,Scott Wolf,Finance,Accountant,New York,1.0
+E132,Erin Brennan,Marketing,Brand Manager,New York,5.7
+E133,Jennifer Bell,Operations,Planner,London,8.8
+E134,Victoria Moore,Marketing,SEO Specialist,Berlin,3.3
+E135,Emily Medina,Operations,Planner,New York,10.8
+E136,Bryan Gaines,HR,Recruiter,London,2.5
+E137,Kimberly Bartlett,Operations,Planner,Berlin,1.1
+E138,Michael Johnson,Finance,Accountant,Berlin,2.0
+E139,Sheila Diaz,Marketing,Brand Manager,Sydney,11.9
+E140,Joshua Mason,Sales,Account Manager,Berlin,7.5
+E141,Nicole Bennett,Operations,Planner,Berlin,10.1
+E142,Steven Cisneros,Sales,Account Manager,London,9.1
+E143,Meredith Braun,Marketing,SEO Specialist,Toronto,9.1
+E144,Joanna Bradley,Operations,Logistics Coordinator,Sydney,6.1
+E145,Doris Phillips,Finance,Financial Analyst,Berlin,1.4
+E146,Olivia Baker,IT,Developer,Toronto,4.4
+E147,Caroline Moore,Sales,Sales Executive,London,2.2
+E148,Christopher Harris,Marketing,Brand Manager,London,8.6
+E149,David Dunn,HR,Recruiter,Berlin,4.3
+E150,Christopher Lopez,Marketing,SEO Specialist,New York,2.9
+E151,Mikayla Bryan,Marketing,SEO Specialist,Sydney,11.4
+E152,Kevin Steele,HR,HR Analyst,Berlin,6.0
+E153,Linda Estrada,IT,Data Analyst,Berlin,10.3
+E154,Joseph Russell,Marketing,Brand Manager,Sydney,9.7
+E155,Amber Miller,Finance,Financial Analyst,London,3.6
+E156,Mrs. Courtney Robbins,Marketing,Marketing Analyst,Berlin,4.4
+E157,Michael Mckinney,Operations,Logistics Coordinator,London,10.2
+E158,Katie Murray,Finance,Auditor,Sydney,0.8
+E159,Mrs. Ashley Joseph,Marketing,Brand Manager,Sydney,8.1
+E160,Zachary Carr,HR,HR Analyst,Berlin,2.1
+E161,Daniel Hill,Marketing,Marketing Analyst,New York,3.5
+E162,Alexander Roberts,IT,Developer,Berlin,4.3
+E163,Matthew Roberts,Marketing,SEO Specialist,Berlin,3.4
+E164,Andre Holmes,HR,Recruiter,New York,9.1
+E165,Tyler Waters,HR,Recruiter,London,8.0
+E166,Susan Gilbert,Operations,Operations Manager,New York,11.4
+E167,Derrick Mcconnell,Finance,Accountant,Sydney,2.3
+E168,Jose Smith,Finance,Financial Analyst,New York,7.0
+E169,Amber Jones,Finance,Financial Analyst,Toronto,9.3
+E170,Sarah Norman,Finance,Auditor,Sydney,11.6
+E171,Harry Butler,Operations,Operations Manager,London,11.6
+E172,Andrew Harmon,HR,HR Analyst,New York,11.2
+E173,Samuel Gonzalez,Sales,Sales Analyst,Berlin,5.1
+E174,Anthony Valdez,Operations,Operations Manager,New York,7.3
+E175,Susan Rivera DDS,Operations,Operations Manager,New York,8.5
+E176,Amanda Pierce,IT,System Engineer,Sydney,9.8
+E177,Nicholas Massey,Sales,Sales Executive,Toronto,6.6
+E178,Chad Miller,Operations,Logistics Coordinator,New York,6.3
+E179,Ricardo Smith,IT,Developer,Berlin,10.0
+E180,Sheila Stewart,HR,Recruiter,Toronto,7.8
+E181,Amy Carr,Marketing,Brand Manager,London,5.5
+E182,George Le,Operations,Planner,Toronto,7.6
+E183,Todd Walters,Sales,Account Manager,Berlin,5.5
+E184,Richard Anderson,Operations,Planner,Toronto,4.2
+E185,Sarah Anderson,Finance,Accountant,Toronto,10.6
+E186,Gregory Klein,Finance,Financial Analyst,Sydney,7.5
+E187,Jennifer Rodriguez,Marketing,SEO Specialist,New York,6.2
+E188,Jamie Harris,IT,Developer,Berlin,2.9
+E189,Scott Solomon,IT,Data Analyst,Toronto,10.6
+E190,Christopher Vazquez,Operations,Logistics Coordinator,Sydney,0.6
+E191,Catherine James,Finance,Accountant,London,8.8
+E192,Keith Gates,Marketing,Brand Manager,London,8.4
+E193,Leslie Johnson,Operations,Planner,Berlin,5.7
+E194,Michael Bailey,HR,HR Manager,Toronto,3.0
+E195,Stacy Harding,Operations,Operations Manager,Toronto,8.1
+E196,Kathryn Aguilar,IT,Data Analyst,Sydney,6.6
+E197,Brittney Kelly,Marketing,Brand Manager,Sydney,4.3
+E198,Maria Diaz,Operations,Logistics Coordinator,Toronto,4.0
+E199,Larry Henderson,Finance,Accountant,London,4.1
+E200,Daniel Martin,Operations,Planner,London,2.7
